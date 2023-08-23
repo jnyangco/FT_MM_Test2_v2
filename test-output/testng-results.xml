@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-23T05:56:31 EDT" name="Default suite" finished-at="2023-08-23T05:56:36 EDT" duration-ms="4783">
+    <groups>
+    </groups>
+    <test started-at="2023-08-23T05:56:31 EDT" name="Default test" finished-at="2023-08-23T05:56:36 EDT" duration-ms="4783">
+      <class name="testcase.API_Test2">
+        <test-method is-config="true" signature="setupURL()[pri:0, instance:testcase.API_Test2@65b3f4a4]" started-at="2023-08-23T05:56:31 EDT" name="setupURL" finished-at="2023-08-23T05:56:31 EDT" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupURL -->
+        <test-method signature="testAPI()[pri:0, instance:testcase.API_Test2@65b3f4a4]" started-at="2023-08-23T05:56:31 EDT" name="testAPI" finished-at="2023-08-23T05:56:36 EDT" duration-ms="4276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAPI -->
+      </class> <!-- testcase.API_Test2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
